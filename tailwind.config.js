@@ -14,7 +14,8 @@ module.exports = {
       },
     },
     color:{
-      'main':"#0F0F0F",
+      main:"#0F0F0F",
+      secondary:"#292929",
     }
   },
   plugins: [],
