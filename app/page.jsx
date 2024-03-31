@@ -8,7 +8,7 @@ export default function Home() {
       <div className="flex flex-col w-8/12 justify-between h-full ">
         <div className="flex items-center justify-between">
           <h2 className="text-2xl">MultiLang 1.0</h2>
-          <select id="small" class="block w-min p-2 mb-6 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+          <select id="small" class="block w-min p-2 mb-6 text-sm border bg-main border-gray-300 rounded-lg  ">
             <option selected>🇺🇸 ENG</option>
             <option value="US">🇸🇦 AR</option>
             <option value="CA">🇫🇷 FR</option>
